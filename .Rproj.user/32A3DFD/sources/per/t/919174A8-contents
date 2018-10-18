@@ -1,0 +1,45 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#in class R
+## overview
+
+```        {r}
+x<-1
+y<-2
+z<-c(x,y)
+
+
+```
+
+
+
+```   {r}
+x+y-5
+
+```
+%% 得到餘數
+
+% % 得到商數
+
+```{r}
+7 %% 3
+7 %/%3
+```
+
+```{r}
+1/0
+-1/0
+0/0
+Inf + Inf
+Inf - Inf
+Inf / Inf
+Inf /0
+```
+
